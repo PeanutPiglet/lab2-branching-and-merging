@@ -1,5 +1,7 @@
 # Chocolate Caramel Celebration Cake
 
+WARNING: RECIPE PRODUCES ILLEGAL FOOD IN CS LABS
+
 This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
 
 ## Cake Ingredients
